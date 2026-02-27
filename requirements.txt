@@ -1,0 +1,7 @@
+streamlit
+pandas
+faker
+boto3
+numpy
+botocore
+pyarrow
